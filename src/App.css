@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-size: 100px;
+  color: rgb(27, 25, 22);
+}
